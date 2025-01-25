@@ -21,11 +21,41 @@ function Partners() {
           <h2 className="about-heading fw-bold">OUR PARTNERS</h2>
         </div>
         <div className="imagesss text-center">
-          <img className="imgg" src={b3} alt="No display" style={{width:'20%',padding:'30px'}}/>
-          <img className="imgg" src={b4} alt="No display" style={{width:'20%',padding:'30px'}}/>
-          <img className="imgg" src={b5} alt="No display" style={{width:'20%',padding:'30px'}}/>
-          <img className="imgg" src={b1} alt="No display" style={{width:'20%',padding:'30px'}}/>
-          <img className="imgg" src={b2} alt="No display" style={{width:'20%',padding:'30px'}}/>
+          <img
+            className="imgg"
+            src={b3}
+            alt="No display"
+            style={{ width: "20%", padding: "30px" }}
+            loading="lazy"
+          />
+          <img
+            className="imgg"
+            src={b4}
+            alt="No display"
+            style={{ width: "20%", padding: "30px" }}
+            loading="lazy"
+          />
+          <img
+            className="imgg"
+            src={b5}
+            alt="No display"
+            style={{ width: "20%", padding: "30px" }}
+            loading="lazy"
+          />
+          <img
+            className="imgg"
+            src={b1}
+            alt="No display"
+            style={{ width: "20%", padding: "30px" }}
+            loading="lazy"
+          />
+          <img
+            className="imgg"
+            src={b2}
+            alt="No display"
+            style={{ width: "20%", padding: "30px" }}
+            loading="lazy"
+          />
         </div>
       </Container>
     </div>

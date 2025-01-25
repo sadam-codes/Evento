@@ -10,7 +10,7 @@ function CollapsibleExample() {
     <div className="navbar-container">
       <Navbar expand="lg">
         <Container>
-          <img src={evento} alt="evento" />
+          <img src={evento} alt="evento" loading="lazy"/>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="ms-auto text-center justify-content-center navStyling">

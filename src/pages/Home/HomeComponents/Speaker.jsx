@@ -86,6 +86,7 @@ function Speaker() {
                     src={speaker.image}
                     alt={`Speaker ${index + 1}`}
                     className="zoom-effect"
+                    loading="lazy"
                   />
                   <div className="hover-button py-1 px-4">
                     <p className="patricia mb-0 text-danger">{speaker.name}</p>
@@ -111,6 +112,7 @@ function Speaker() {
                     src={speaker.image}
                     alt={`Speaker ${index + 5}`}
                     className="zoom-effect"
+                    loading="lazy"
                   />
                   <div className="hover-button py-1 px-4">
                     <p className="patricia mb-0 text-danger">{speaker.name}</p>

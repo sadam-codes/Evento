@@ -17,7 +17,7 @@ function EISdsection() {
         <Container>
           <Row>
             <Col xs={12} lg={4} md={6}>
-              <img src={evento} alt="not diaplay" />
+              <img src={evento} alt="not diaplay" loading='lazy'/>
               <p className="mb-0 text-light ticket-paragraph py-2">
                 Lorem ipsum dolar sit amet, consecteture adipiscing alit. In
                 rhoncus massa nec gravida tempus. Integer iaculis in
@@ -45,14 +45,14 @@ function EISdsection() {
                   INSTAGRAM
                 </h2>
                 <div className="parent-images">
-                  <img className="c-ww" src={c1} alt="not found" />
-                  <img className="c-ww" src={c2} alt="not found" />
-                  <img className="c-ww" src={c3} alt="not found" />
+                  <img className="c-ww" src={c1} alt="not found" loading="lazy"/>
+                  <img className="c-ww" src={c2} alt="not found" loading="lazy"/>
+                  <img className="c-ww" src={c3} alt="not found" loading="lazy"/>
                 </div>
                 <div className="parent-images">
-                  <img className="c-ww" src={c2} alt="not found" />
-                  <img className="c-ww" src={c1} alt="not found" />
-                  <img className="c-ww" src={c3} alt="not found" />
+                  <img className="c-ww" src={c2} alt="not found" loading="lazy"/>
+                  <img className="c-ww" src={c1} alt="not found" loading="lazy"/>
+                  <img className="c-ww" src={c3} alt="not found" loading="lazy"/>
                 </div>
               </div>
             </Col>

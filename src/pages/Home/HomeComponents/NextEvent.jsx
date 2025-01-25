@@ -60,6 +60,7 @@ function NextEvent() {
                     className="c-image rounded"
                     src={event.image}
                     alt="not available"
+                    loading="lazy"
                   />
                 </div>
               </div>

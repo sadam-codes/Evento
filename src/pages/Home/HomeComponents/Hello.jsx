@@ -29,6 +29,7 @@ function Hello() {
             src={image}
             alt={`Speaker ${index + 1}`}
             className="zoom-effect w-100"
+            loading="lazy"
           />
         </div>
         <div className="hover-button ">
