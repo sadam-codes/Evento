@@ -8,8 +8,8 @@ function Footer() {
         <div className="d-flex flex-column flex-sm-row justify-content-between align-items-center py-2">
           <div className="text-white">
             <p className="footer-para mb-0 d-sm-inline-block d-lg-flex" style={{paddingLeft:'15px'}}>
-              Copyright © 2022 All Rights Reserved | This Template
-              Is Made With 🤍 By Colorib
+              Copyright © 2025 All Rights Reserved | This Template
+              Is Made With 🤍 By Sadam
             </p>
           </div>
           <div className="text-white" style={{ paddingLeft: "20px", paddingRight: "20px" }}>
