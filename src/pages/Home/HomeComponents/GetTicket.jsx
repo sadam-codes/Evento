@@ -19,10 +19,8 @@ function GetTicket() {
         </div>
         <div className="d-flex flex-column flex-md-row align-items-center justify-content-between gap-5">
           <p className="mb-0 text-light ticket-paragraph col-12 col-md-9 py-3">
-            Lorem ipsum dolar sit amet, consecteture adipiscing alit. In rhoncus
-            massa nec gravida tempus. Integer iaculis in aazzzCurabitur a
-            pulvinar nunc. Maecenas laboreet finibus lectus, at volutpat ligula
-            euismod
+            Life flows with purpose, shaped by steady effort. Stay grounded and focused as you move forward.
+            True progress comes from persistence and adaptability. Keep striving, and success will follow.
           </p>
           <button className="buy-now text-center bg-danger border-danger">
             BUY NOW
