@@ -6,8 +6,8 @@ import c2 from "../../../assets/images/c2.png";
 import c3 from "../../../assets/images/c3.png";
 const eventsData = [
   {
-    date: "14",
-    month: "February",
+    date: "15",
+    month: "August",
     title: "Conference in America",
     time: "10 AM - 9 PM",
     buttonText: "Read More",
@@ -16,8 +16,8 @@ const eventsData = [
     speaker: "Speaker: Danila Hill",
   },
   {
-    date: "18",
-    month: "February",
+    date: "16",
+    month: "March",
     title: "Conference in America",
     time: "10 AM - 9 PM",
     buttonText: "Read More",
